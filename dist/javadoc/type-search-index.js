@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"gestione.magazzinogui","l":"MainMenuGUI"},{"p":"gestione.magazzinogui","l":"Metodi"},{"p":"gestione.magazzinogui","l":"pnlInserisci"}];updateSearchResults();
